@@ -1,5 +1,5 @@
-Origin: proxytool
-Label: proxytool
+Origin: Proxytool
+Label: Proxytool
 Suite: stable
 Version: 1.0
 Codename: ios
@@ -8,5 +8,5 @@ Components: main
 Description: Wi-Fi proxy configuration command tool
 
 SHA256:
- 3f6289a75e9af263defe2ee12f1568e402af56375d7dac025b1c3983dd3f037b 546 Packages.bz2
- c500c3637a142d17d8b730cd53adeeae26a322a1067f6fd910906208459ac423 552 Packages.xz
+ 493212cda502a1e8ea8696076dda4aa03153f12a689d4ac261011d0de4baebdc 549 Packages.bz2
+ b6f8175546e2203198859e671a172d4da132308f7134c62b2c049542193adcd3 552 Packages.xz
