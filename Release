@@ -3,10 +3,10 @@ Label: Proxytool
 Suite: stable
 Version: 1.0
 Codename: Proxytool
-Architectures: iphoneos-arm64
+Architectures: iphoneos-arm
 Components: main
 Description: Wi-Fi proxy configuration command tool
 
 SHA256:
- 0603f9c037dea4eac03b802bc06c7158506c53423735f45f1eb8541293f9684a 545 Packages.bz2
- d94d5be4ca5c28149bf805925300da06d5c5817017a94b3a57a9c5f1fef9678a 548 Packages.xz
+ 6266ff1314d37fa3cfffe236369c4646c9dffc6ca3c8d7e5347f526cb96f54c2 536 Packages.bz2
+ a9313f9a3c05a28b7748f49c9622dee3f8f6e3701aa090584a58074a1498b94e 548 Packages.xz
