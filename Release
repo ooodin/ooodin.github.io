@@ -8,5 +8,5 @@ Components: main
 Description: Wi-Fi proxy configuration command tool
 
 SHA256:
- 8a494a0ad6c0e0fb56c365314df8a843a417a9a684c300b11bc72f0caaf17eb8 548 Packages.bz2
- 45cbf670c9e96a0d5be14403b633307a04815acae874bc09cb562ca6a1aaae33 548 Packages.xz
+ 12949f4512fd230afc359ea8a256456db040962fda9a243f7fc6a31fc07adfe7 521 Packages.bz2
+ b1cec28b68f0520764de86444c8722c27e9402069b6dc535f464e90bf6d5fe46 532 Packages.xz
